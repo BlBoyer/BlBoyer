@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlBoyer
 - 👀 I’m interested in ...web dev, game dev, blockchain, and data security
-- 🌱 I’m currently learning ... ...
+- 🌱 I’m currently learning ... ASP.NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... boyer.benlee@gmail.com
 
