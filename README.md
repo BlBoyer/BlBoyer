@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlBoyer
-- 👀 I’m interested in ...web dev, game dev, blockchain, programming in general
-- 🌱 I’m currently learning ... msal, testing writing, production process
+- 👀 I’m interested in ...web dev, game dev, blockchain, applications, robotics, AI
+- 🌱 I’m currently learning ..
 - 🌲 I'm always learning about ... design patterns/architecture, cleaner code
 - 📫 How to reach me ... boyer.benlee@gmail.com
 
