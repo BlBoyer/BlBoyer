@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BlBoyer
 - 👀 I’m interested in ...web dev, game dev, blockchain, applications, robotics, AI
-- 🌱 I’m currently learning ..angular libraries/state management, documentation writing, devops CI  
-- 🌲 I'm always learning about ... js libraries, .NET, azure devops, better architecture/cleaner code
+- 🌱 I’m currently learning ..Team development  
+- 🌲 I'm always learning about ... Popular Front-end Frameworks, .NET, Architecture, Testing
 - 📫 How to reach me ... boyer.benlee@gmail.com
 
 <!---
